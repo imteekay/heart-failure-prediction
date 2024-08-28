@@ -10,6 +10,7 @@ Predicting heart failure from a clinical features
 - [Preprocessing & Logistic Regression](/004.logistic_regression.ipynb)
 - [Preprocessing & KNN](/005.knn.ipynb)
 - [Preprocessing & Decision Tree](/006.decision_tree.ipynb)
+- [Preprocessing & Random Forest](/007.random_forest.ipynb)
 
 ## License
 
