@@ -8,6 +8,7 @@ Predicting heart failure from a clinical features
 - [Preprocessing & Naive Bayes](/002.naive_bayes.ipynb)
 - [Preprocessing & SVM](/003.svm.ipynb)
 - [Preprocessing & Logistic Regression](/004.logistic_regression.ipynb)
+- [Preprocessing & KNN](/005.knn.ipynb)
 
 ## License
 
